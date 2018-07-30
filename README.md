@@ -1,2 +1,2 @@
-# Mozfest_activities
-Mozfest activities
+# The long road to the Amazing Privacy Land
+
